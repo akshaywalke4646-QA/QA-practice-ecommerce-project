@@ -1,0 +1,35 @@
+# Manual Test Cases
+
+This folder contains functional, regression, and negative test cases for the E-commerce application.
+
+Modules Covered:
+Log IN 
+- Registration
+- Login
+- View profile
+- Update profile
+- Manage address
+Procuct
+- View product list
+- Product Search
+- Filter by category/price/brand
+- View product details
+- Add to wishlist
+- Remove from wishlist
+Cart
+- Move to cart
+- Cart
+- Select address
+Checkout
+- Select payment method
+- Apply coupon
+- Place order
+- Checkout
+- Payment success / failure
+Orders
+- View order history
+- Order status
+- Cancel order
+- Return order
+- Download invoice
+
